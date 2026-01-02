@@ -97,6 +97,6 @@ jednoduchost
 dlouhodobou udržitelnost
 
 
-    jednoduchost
+
 
     dlouhodobou udržitelnost
