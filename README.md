@@ -95,8 +95,3 @@ Důraz byl kladen na:
 čitelnost
 jednoduchost
 dlouhodobou udržitelnost
-
-
-
-
-    dlouhodobou udržitelnost
